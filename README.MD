@@ -1,7 +1,3 @@
-Tentu, ini adalah `README.md` yang merangkum ke-10 file Python yang Anda berikan.
-
------
-
 # Kumpulan Latihan Dasar Python
 
 Repository ini berisi kumpulan 10 file skrip Python sederhana yang mencakup konsep-konsep dasar pemrograman seperti input/output, percabangan (if-elif-else), dan perulangan (for, while). Setiap file dirancang untuk menyelesaikan satu tugas spesifik.
